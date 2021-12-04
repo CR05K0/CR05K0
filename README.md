@@ -1,5 +1,4 @@
-- 👋 Hi, my name is Corey Rosko ...
-- 👀 I’m interested in Information Technology...
+Welcome to Corey's Virtual Garage.
 
 <!---
 CR05K0/CR05K0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
